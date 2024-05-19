@@ -1,0 +1,268 @@
+📦Orphanage-Management-System
+ ┣ 📂Controller
+ ┃ ┣ 📂Adopter
+ ┃ ┃ ┣ 📜AdoptionRequest_Handler.php
+ ┃ ┃ ┣ 📜ChangePassword_Handler.php
+ ┃ ┃ ┣ 📜Date_Handler.php
+ ┃ ┃ ┣ 📜DeleteAccount_Handler.php
+ ┃ ┃ ┣ 📜ForgetPassword_Handler.php
+ ┃ ┃ ┣ 📜Image_Validation.php
+ ┃ ┃ ┣ 📜Login_Handler.php
+ ┃ ┃ ┣ 📜Logout_Handler.php
+ ┃ ┃ ┣ 📜NewPassword_Handler.php
+ ┃ ┃ ┣ 📜OrphanInfo_Handler.php
+ ┃ ┃ ┣ 📜Profile_Handler.php
+ ┃ ┃ ┣ 📜Signup_Handler.php
+ ┃ ┃ ┗ 📜Time_Handler.php
+ ┃ ┣ 📂Orphan
+ ┃ ┃ ┣ 📜AdoptionRequest_Handler.php
+ ┃ ┃ ┣ 📜ChangePassword_Handler.php
+ ┃ ┃ ┣ 📜DeleteAccount_Handler.php
+ ┃ ┃ ┣ 📜ForgetPassword_Handler.php
+ ┃ ┃ ┣ 📜Image_Validation.php
+ ┃ ┃ ┣ 📜Login_Handler.php
+ ┃ ┃ ┣ 📜Logout_Handler.php
+ ┃ ┃ ┣ 📜NewPassword_Handler.php
+ ┃ ┃ ┗ 📜Profile_Handler.php
+ ┃ ┗ 📂Supervisor
+ ┃ ┃ ┣ 📜AddOrphans_Handler.php
+ ┃ ┃ ┣ 📜AdoptionRequest_Handler_Accept.php
+ ┃ ┃ ┣ 📜AdoptionRequest_Handler_Reject.php
+ ┃ ┃ ┣ 📜ChangePassword_Handler.php
+ ┃ ┃ ┣ 📜DeleteAccount_Handler.php
+ ┃ ┃ ┣ 📜ForgetPassword_Handler.php
+ ┃ ┃ ┣ 📜Image_Validation.php
+ ┃ ┃ ┣ 📜Login_Handler.php
+ ┃ ┃ ┣ 📜Logout_Handler.php
+ ┃ ┃ ┣ 📜NewPassword_Handler.php
+ ┃ ┃ ┣ 📜Prediction_Handler.php
+ ┃ ┃ ┣ 📜Profile_Handler.php
+ ┃ ┃ ┗ 📜Signup_Handler.php
+ ┣ 📂Database Backup
+ ┃ ┣ 📂Database Backup
+ ┃ ┃ ┗ 📜orphanage_management_system.sql
+ ┃ ┣ 📂ML Dataset
+ ┃ ┃ ┣ 📂Machine Learning Model
+ ┃ ┃ ┃ ┣ 📜polynomial_regression_model.pickle
+ ┃ ┃ ┃ ┣ 📜predict.php
+ ┃ ┃ ┃ ┗ 📜predict_profit.py
+ ┃ ┃ ┣ 📜archive.zip
+ ┃ ┃ ┗ 📜profit.xlsx
+ ┃ ┗ 📜orphanage_management_system.rar
+ ┣ 📂images
+ ┃ ┣ 📂Adopter_Images
+ ┃ ┃ ┣ 📜IMG_0003.JPG
+ ┃ ┃ ┣ 📜NNRU8164.JPG
+ ┃ ┃ ┗ 📜temp.png
+ ┃ ┣ 📂Orphan_Images
+ ┃ ┃ ┣ 📜aarian.jpg
+ ┃ ┃ ┣ 📜alif.jpg
+ ┃ ┃ ┣ 📜arif.jpg
+ ┃ ┃ ┣ 📜bilal.jpg
+ ┃ ┃ ┣ 📜faria.jpg
+ ┃ ┃ ┣ 📜hasan.jpg
+ ┃ ┃ ┣ 📜hossain.jpg
+ ┃ ┃ ┣ 📜itu.jpg
+ ┃ ┃ ┣ 📜jannat.jpg
+ ┃ ┃ ┣ 📜kasem.jpg
+ ┃ ┃ ┣ 📜mahmud.jpg
+ ┃ ┃ ┣ 📜maisha.jpg
+ ┃ ┃ ┣ 📜maria.jpg
+ ┃ ┃ ┣ 📜ornok.jpg
+ ┃ ┃ ┣ 📜rina.jpg
+ ┃ ┃ ┣ 📜rumana.jpg
+ ┃ ┃ ┣ 📜rupa.jpg
+ ┃ ┃ ┣ 📜sadia.jpg
+ ┃ ┃ ┣ 📜sara.jpg
+ ┃ ┃ ┣ 📜sarah0010.jpg
+ ┃ ┃ ┣ 📜selim11343.jpg
+ ┃ ┃ ┣ 📜shakil.jpg
+ ┃ ┃ ┣ 📜shelina.jpg
+ ┃ ┃ ┣ 📜temp.png
+ ┃ ┃ ┣ 📜temp2.jpg
+ ┃ ┃ ┗ 📜udoy.jpg
+ ┃ ┣ 📂Supervisor_Images
+ ┃ ┃ ┗ 📜temp.png
+ ┃ ┣ 📜1.png
+ ┃ ┣ 📜About_Us.jpg
+ ┃ ┣ 📜donation.jpeg
+ ┃ ┣ 📜edu_tutor_program_orphan.jpg
+ ┃ ┣ 📜extracurricular_orphan_1.jpg
+ ┃ ┣ 📜extracurricular_orphan_2.jpeg
+ ┃ ┣ 📜Fund Raising Opportunities.jpg
+ ┃ ┣ 📜homepageFront.png
+ ┃ ┣ 📜key.png
+ ┃ ┣ 📜login_background.jpeg
+ ┃ ┣ 📜login_background.jpg
+ ┃ ┣ 📜login_background2.jpg
+ ┃ ┣ 📜mail.png
+ ┃ ┣ 📜Make Your Impact With Hope Heaven Cover.jpg
+ ┃ ┣ 📜medical_healthCare_orphans.jpg
+ ┃ ┣ 📜New Microsoft Excel Worksheet.xlsx
+ ┃ ┣ 📜showPass.png
+ ┃ ┣ 📜Volunteer Opportunities.jpg
+ ┃ ┣ 📜workshop1.jpg
+ ┃ ┣ 📜workshop2.jpg
+ ┃ ┗ 📜Youht Workshops.jpg
+ ┣ 📂Layout
+ ┃ ┣ 📂Adopter
+ ┃ ┃ ┣ 📜AdopterFooter.php
+ ┃ ┃ ┗ 📜AdopterHeader.php
+ ┃ ┣ 📂Homepage
+ ┃ ┃ ┣ 📜Footer.php
+ ┃ ┃ ┗ 📜Header.php
+ ┃ ┣ 📂Orphan
+ ┃ ┃ ┣ 📜OrphanFooter.php
+ ┃ ┃ ┗ 📜OrphanHeader.php
+ ┃ ┗ 📂Supervisor
+ ┃ ┃ ┣ 📜SupervisorFooter.php
+ ┃ ┃ ┗ 📜SupervisorHeader.php
+ ┣ 📂Model
+ ┃ ┣ 📜Adopter.php
+ ┃ ┣ 📜db_connect.php
+ ┃ ┣ 📜model.php
+ ┃ ┣ 📜Orphan.php
+ ┃ ┗ 📜Supervisor.php
+ ┣ 📂Views
+ ┃ ┣ 📂Adopter
+ ┃ ┃ ┣ 📂Forget_Password
+ ┃ ┃ ┃ ┣ 📂CreateNewPassword
+ ┃ ┃ ┃ ┃ ┣ 📂assets
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂bootstrap
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂css
+ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.css
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂js
+ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.js
+ ┃ ┃ ┃ ┃ ┗ 📜CreateNewPassword.php
+ ┃ ┃ ┃ ┣ 📂ForgetPassword
+ ┃ ┃ ┃ ┃ ┣ 📂assets
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂bootstrap
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂css
+ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.css
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂js
+ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.js
+ ┃ ┃ ┃ ┃ ┗ 📜ForgetPassword.php
+ ┃ ┃ ┃ ┣ 📜CreateNewPassword.php
+ ┃ ┃ ┃ ┗ 📜ForgetPassword.php
+ ┃ ┃ ┣ 📂Login
+ ┃ ┃ ┃ ┣ 📂assets
+ ┃ ┃ ┃ ┃ ┗ 📂bootstrap
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂css
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.css
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂js
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.js
+ ┃ ┃ ┃ ┗ 📜Login.php
+ ┃ ┃ ┣ 📂SignUp
+ ┃ ┃ ┃ ┣ 📂assets
+ ┃ ┃ ┃ ┃ ┗ 📂bootstrap
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂css
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.css
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂js
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.js
+ ┃ ┃ ┃ ┗ 📜SignUp.php
+ ┃ ┃ ┣ 📜ChangePassword.php
+ ┃ ┃ ┣ 📜Dashboard_Home.php
+ ┃ ┃ ┣ 📜OrphanProfiles.php
+ ┃ ┃ ┣ 📜Profile.php
+ ┃ ┃ ┗ 📜SignUp.php
+ ┃ ┣ 📂Homepage
+ ┃ ┃ ┣ 📂assets
+ ┃ ┃ ┃ ┣ 📂bootstrap
+ ┃ ┃ ┃ ┃ ┣ 📂css
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.css
+ ┃ ┃ ┃ ┃ ┗ 📂js
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.js
+ ┃ ┃ ┃ ┣ 📂css
+ ┃ ┃ ┃ ┃ ┗ 📜animate.min.css
+ ┃ ┃ ┃ ┗ 📂js
+ ┃ ┃ ┃ ┃ ┗ 📜bs-init.js
+ ┃ ┃ ┗ 📜LandingPage.php
+ ┃ ┣ 📂Orphan
+ ┃ ┃ ┣ 📂Forget_Password
+ ┃ ┃ ┃ ┣ 📂CreateNewPassword
+ ┃ ┃ ┃ ┃ ┣ 📂assets
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂bootstrap
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂css
+ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.css
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂js
+ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.js
+ ┃ ┃ ┃ ┃ ┗ 📜CreateNewPassword.php
+ ┃ ┃ ┃ ┣ 📂ForgetPassword
+ ┃ ┃ ┃ ┃ ┣ 📂assets
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂bootstrap
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂css
+ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.css
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂js
+ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.js
+ ┃ ┃ ┃ ┃ ┗ 📜ForgetPassword.php
+ ┃ ┃ ┃ ┣ 📜CreateNewPassword.php
+ ┃ ┃ ┃ ┗ 📜ForgetPassword.php
+ ┃ ┃ ┣ 📂Login
+ ┃ ┃ ┃ ┣ 📂assets
+ ┃ ┃ ┃ ┃ ┗ 📂bootstrap
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂css
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.css
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂js
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.js
+ ┃ ┃ ┃ ┗ 📜Login.php
+ ┃ ┃ ┣ 📂SignUp
+ ┃ ┃ ┃ ┣ 📂assets
+ ┃ ┃ ┃ ┃ ┗ 📂bootstrap
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂css
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.css
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂js
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.js
+ ┃ ┃ ┃ ┗ 📜SignUp.php
+ ┃ ┃ ┣ 📜AdopterProfiles.php
+ ┃ ┃ ┣ 📜ChangePassword.php
+ ┃ ┃ ┣ 📜Dashboard_Home.php
+ ┃ ┃ ┣ 📜OrphanDashboard.php
+ ┃ ┃ ┗ 📜Profile.php
+ ┃ ┗ 📂Supervisor
+ ┃ ┃ ┣ 📂Forget_Password
+ ┃ ┃ ┃ ┣ 📂CreateNewPassword
+ ┃ ┃ ┃ ┃ ┣ 📂assets
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂bootstrap
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂css
+ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.css
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂js
+ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.js
+ ┃ ┃ ┃ ┃ ┗ 📜CreateNewPassword.php
+ ┃ ┃ ┃ ┗ 📂ForgetPassword
+ ┃ ┃ ┃ ┃ ┣ 📂assets
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂bootstrap
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂css
+ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.css
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂js
+ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.js
+ ┃ ┃ ┃ ┃ ┗ 📜ForgetPassword.php
+ ┃ ┃ ┣ 📂Login
+ ┃ ┃ ┃ ┣ 📂assets
+ ┃ ┃ ┃ ┃ ┗ 📂bootstrap
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂css
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.css
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂js
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.js
+ ┃ ┃ ┃ ┗ 📜Login.php
+ ┃ ┃ ┣ 📂SignUp
+ ┃ ┃ ┃ ┣ 📂assets
+ ┃ ┃ ┃ ┃ ┗ 📂bootstrap
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂css
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.css
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂js
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.js
+ ┃ ┃ ┃ ┗ 📜SignUp.php
+ ┃ ┃ ┣ 📜AddOrphans.php
+ ┃ ┃ ┣ 📜AdoptionRequests.php
+ ┃ ┃ ┣ 📜ChangePassword.php
+ ┃ ┃ ┣ 📜Dashboard_Home.php
+ ┃ ┃ ┣ 📜OrphanProfiles.php
+ ┃ ┃ ┗ 📜Profile.php
+ ┣ 📜.gitignore
+ ┣ 📜Functionality List.txt
+ ┣ 📜index.php
+ ┣ 📜LICENSE
+ ┣ 📜ORPHANGAE-MANAGEMENT-SYSTEM LAYOUTIT.zip
+ ┣ 📜README.md
+ ┣ 📜Tree Structure.txt
+ ┗ 📜UPDATE.txt

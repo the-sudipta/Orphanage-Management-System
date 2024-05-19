@@ -1,0 +1,153 @@
+📦 Adopter pages
+ ┣ 📂 Dashboard Components
+ ┃       ┣ 📜 Adoption Status
+ ┃       ┣ 📜 Showing Requested Orphan Profiles
+ ┃       ┣ 📜 Showing Appointment Date and Time
+ ┃       ┣ 📜 Cancel Requested Orphan Button
+ ┣ 📂 Request for orphan Adoption Components
+ ┃       ┣ 📜 Choose Orphan
+ ┃       ┣ 📜 Send Request Button
+ ┣ 📂 My Profile
+ ┃       ┣ 📜 Change Name
+ ┃       ┣ 📜 Change Gender
+ ┃       ┣ 📜 Change Phone
+ ┃       ┣ 📜 Change Address
+ ┃       ┣ 📜 Change Profession
+ ┃       ┣ 📜 Disable Mail
+ ┃       ┣ 📜 Disable Adoption Status
+ ┃       ┣ 📜 Update Button
+ ┣ 📂 Change Password
+ ┃       ┣ 📜 Give Old password
+ ┃       ┣ 📜 Give New Password
+ ┃       ┣ 📜 Retype New password
+ ┃       ┣ 📜 Signup Button
+ ┣ 📂 Delete Account
+ ┃       ┣ 📜 Deleted Account
+ ┣ 📂 Login
+ ┃       ┣ 📜 Give Mail
+ ┃       ┣ 📜 Give Password
+ ┃       ┣ 📜 Signup Option
+ ┃       ┣ 📜 Forget Password
+ ┃       ┣ 📜 Login Button
+ ┣ 📂 Signup
+ ┃       ┣ 📜 Enter Name
+ ┃       ┣ 📜 Enter Mail
+ ┃       ┣ 📜 Enter Password
+ ┃       ┣ 📜 Enter Gender
+ ┃       ┣ 📜 Enter Phone
+ ┃       ┣ 📜 Enter Address
+ ┃       ┣ 📜 Enter Profession
+ ┃       ┣ 📜 Submit Button
+ ┣ 📂 Forget Password
+ ┃       ┣ 📜 Enter Mail
+ ┃       ┣ 📜 Submit Button
+ ┣ 📂 Give New Password
+ ┃       ┣ 📜 New Password
+ ┃       ┣ 📜 Re-Type New Password
+ ┃       ┣ 📜 Submit Button
+
+
+
+
+
+📦 Supervisor Pages
+ ┣ 📂 Dashboard Components
+ ┃       ┣ 📜 Appointment Date and Time
+ ┃       ┣ 📜 Showing Salary
+ ┃       ┣ 📜 Showing Events
+ ┣ 📂 Adoption Request Components
+ ┃       ┣ 📜 Show The Adoption_Request Table
+ ┃       ┣ 📜 Show Appoint Button for each Adoption Request
+ ┃       ┣ 📜 Show Reject Button for each Adoption Request
+                        ┣ 📜 Reject will Delete the Adoption Request from Database
+ ┣ 📂 Add Orphan Components
+ ┃       ┣ 📜 Signup page for Orphans
+ ┣ 📂 Cancel Adoption Requests Components
+ ┃       ┣ 📜 Show the Adoption Request table
+ ┃       ┣ 📜 Show Reject Button
+                         ┣ 📜 Reject will Delete the Adoption Request from Database
+ ┣ 📂 My Profile
+ ┃       ┣ 📜 Change Name
+ ┃       ┣ 📜 Change Gender
+ ┃       ┣ 📜 Change Phone
+ ┃       ┣ 📜 Change Address
+ ┃       ┣ 📜 Change Profession
+ ┃       ┣ 📜 Disable Mail
+ ┃       ┣ 📜 Disable Adoption Status
+ ┃       ┣ 📜 Update Button
+ ┣ 📂 Change Password
+ ┃       ┣ 📜 Give Old password
+ ┃       ┣ 📜 Give New Password
+ ┃       ┣ 📜 Retype New password
+ ┃       ┣ 📜 Signup Button
+ ┣ 📂 Delete Account
+ ┃       ┣ 📜 Deleted Account
+ ┣ 📂 Login
+ ┃       ┣ 📜 Give Mail
+ ┃       ┣ 📜 Give Password
+ ┃       ┣ 📜 Signup Option
+ ┃       ┣ 📜 Forget Password
+ ┃       ┣ 📜 Login Button
+ ┣ 📂 Signup
+ ┃       ┣ 📜 Enter Name
+ ┃       ┣ 📜 Enter Mail
+ ┃       ┣ 📜 Enter Password
+ ┃       ┣ 📜 Enter Gender
+ ┃       ┣ 📜 Enter Phone
+ ┃       ┣ 📜 Enter Address
+ ┃       ┣ 📜 Enter Profession
+ ┃       ┣ 📜 Submit Button
+ ┣ 📂 Forget Password
+ ┃       ┣ 📜 Enter Mail
+ ┃       ┣ 📜 Submit Button
+ ┣ 📂 Give New Password
+ ┃       ┣ 📜 New Password
+ ┃       ┣ 📜 Re-Type New Password
+ ┃       ┣ 📜 Submit Button
+ 
+
+
+
+ 📦 Orphan Pages
+ ┣ 📂 Dashboard Components
+ ┃       ┣ 📜 Appointment Date and Time
+ ┃       ┣ 📜 Showing Requested Adopter Profile Info
+ ┃       ┣ 📜 Showing Events
+ ┣ 📂 My Profile
+ ┃       ┣ 📜 Change Name
+ ┃       ┣ 📜 Change Gender
+ ┃       ┣ 📜 Change Phone
+ ┃       ┣ 📜 Change Address
+ ┃       ┣ 📜 Change Profession
+ ┃       ┣ 📜 Disable Mail
+ ┃       ┣ 📜 Disable Adoption Status
+ ┃       ┣ 📜 Update Button
+ ┣ 📂 Change Password
+ ┃       ┣ 📜 Give Old password
+ ┃       ┣ 📜 Give New Password
+ ┃       ┣ 📜 Retype New password
+ ┃       ┣ 📜 Signup Button
+ ┣ 📂 Delete Account
+ ┃       ┣ 📜 Deleted Account
+ ┣ 📂 Login
+ ┃       ┣ 📜 Give Mail
+ ┃       ┣ 📜 Give Password
+ ┃       ┣ 📜 Signup Option
+ ┃       ┣ 📜 Forget Password
+ ┃       ┣ 📜 Login Button
+ ┣ 📂 Signup
+ ┃       ┣ 📜 Enter Name
+ ┃       ┣ 📜 Enter Mail
+ ┃       ┣ 📜 Enter Password
+ ┃       ┣ 📜 Enter Gender
+ ┃       ┣ 📜 Enter Phone
+ ┃       ┣ 📜 Enter Address
+ ┃       ┣ 📜 Enter Profession
+ ┃       ┣ 📜 Submit Button
+ ┣ 📂 Forget Password
+ ┃       ┣ 📜 Enter Mail
+ ┃       ┣ 📜 Submit Button
+ ┣ 📂 Give New Password
+ ┃       ┣ 📜 New Password
+ ┃       ┣ 📜 Re-Type New Password
+ ┃       ┣ 📜 Submit Button
